@@ -14,6 +14,7 @@ nuxt list templates
 ```
 
 ### Project
+
 ```bash
 # Start in development mode
 nuxt dev
@@ -30,7 +31,7 @@ nuxt generate
 
 ### Modules
 
-```
+```bash
 # List nuxt.js official modules
 nuxt list modules
 
