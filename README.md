@@ -4,15 +4,15 @@ CLI for Nuxt.js projects
 ## Commans
 
 ```bash
-# Create a new Nuxt.js project
+# Create nuxt.js project
 nuxt init <template-name> <folder-name>
 
-# Start the project in development mode
+# Start in development mode
 nuxt dev
 
-# Build the project for production
+# Build for production
 nuxt build
-# Start the project in production mode
+# Start in production mode
 nuxt start
 
 # Generate a server-rendered static website
@@ -24,15 +24,15 @@ nuxt add/remove <module-name>
 # Analyze bundles
 nuxt analyze
 
-# Benchmarks Nuxt.js project
+# Benchmark project
 nuxt benchmarks
 
-# Upgrade Nuxt.js dependency & nuxt modules
+# Upgrade nuxt.js dependency & nuxt modules
 nuxt upgrade
 
-# Test Nuxt.js project (proposal)
+# Test project (proposal)
 nuxt test
 
-# Link Nuxt.js to development purpose of nuxt.js
+# Link nuxt.js to project (development of nuxt.js)
 nuxt link <nuxt.js-repo>
 ```
