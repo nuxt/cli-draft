@@ -1,0 +1,24 @@
+{
+  "name": "nuxt-cli",
+  "version": "0.0.1",
+  "description": "CLI for Nuxt.js Projects",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuxt/nuxt-cli.git"
+  },
+  "keywords": [
+    "nuxt",
+    "nuxt.js",
+    "nuxt cli"
+  ],
+  "author": "Nuxt.js Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nuxt/nuxt-cli/issues"
+  },
+  "homepage": "https://github.com/nuxt/nuxt-cli#readme"
+}
