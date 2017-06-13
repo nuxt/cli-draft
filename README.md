@@ -7,10 +7,10 @@ CLI for Nuxt.js projects
 
 ```bash
 # Create nuxt.js project
-nuxt init <template-name> <folder-name>
+nuxt new <template-name> <folder-name?>
 
 # List official templates
-nuxt list templates
+nuxt templates list
 ```
 
 ### Project
@@ -33,16 +33,26 @@ nuxt generate
 
 ```bash
 # List nuxt.js official modules
-nuxt list modules
+nuxt module list
 
 # Add a nuxt.js module to the project
-nuxt add <module-name>
+nuxt module add <module-name>
 
 # Remove a nuxt module
-nuxt remove <module-name>
+nuxt module rm/remove <module-name>
 
 # Upgrade a nuxt module
-nuxt upgrade <module-name>
+nuxt module upgrade <module-name>
+```
+
+### Pages
+
+```bash
+# Add a page
+nuxt page add <page-name>
+
+# Remove a page
+nuxt page rm/remove <page-name>
 ```
 
 ### Utils
