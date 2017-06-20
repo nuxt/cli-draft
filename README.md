@@ -74,5 +74,5 @@ nuxt upgrade
 nuxt test
 
 # Link nuxt.js to project (development of nuxt.js)
-nuxt link <nuxt.js-repo>
+nuxt link <nuxt.js-dir>
 ```
