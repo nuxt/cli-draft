@@ -41,6 +41,9 @@ nuxt module add <module-name>
 # Remove a nuxt module
 nuxt module rm/remove <module-name>
 
+# Add a new module locally (modules/<module-name>/index.js)
+nuxt module new <module-name>
+
 # Upgrade a nuxt module
 nuxt module upgrade <module-name>
 ```
